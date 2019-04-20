@@ -6,9 +6,9 @@ def key_for_min_value(name_hash)
   names.each do |key, value|
     if value == 1 or value == 10
       return key
-      else 
-      puts 
+      else
     end
   end
-  nil
+nil
 end
+
